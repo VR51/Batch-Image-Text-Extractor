@@ -6,8 +6,8 @@ This script uses (tesseract)[https://github.com/tesseract-ocr/tesseract/wiki] to
 # Instructions
 
 - Place the script in an empty directory
-- place images that contain text into the same directory
-- run the script with `bash ./batch-image-text-extractor.sh`
+- Place images that contain text into the same directory
+- Run the script with `bash ./batch-image-text-extractor.sh`
 
 Also, you could just make the script executable and then click it to activate it.
 
